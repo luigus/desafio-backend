@@ -46,7 +46,7 @@ $ docker run -it -p 8000:8000 django-image
 ### Django super-user
 
 * User: luigus
-* Password: MOMOeang
+* Password: 123456
 
 ### Django tests
 For run models and views tests use this comand below :
